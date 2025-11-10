@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59212102-ac7d-4d84-bb5d-07915e4eba88" name="Changes" comment="push game">
-      <change afterPath="$PROJECT_DIR$/Typing Speed Test/speed test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="59212102-ac7d-4d84-bb5d-07915e4eba88" name="Changes" comment="push type speed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,11 +126,20 @@
       <option name="project" value="LOCAL" />
       <updated>1762792402510</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="push type speed">
+      <option name="closed" value="true" />
+      <created>1762794624642</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1762794624642</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="push game" />
-    <option name="LAST_COMMIT_MESSAGE" value="push game" />
+    <MESSAGE value="push type speed" />
+    <option name="LAST_COMMIT_MESSAGE" value="push type speed" />
   </component>
 </project>
